@@ -6,10 +6,7 @@ Pioneer transcription factors (PTFs) directly bind to the nucleosomally organize
 * We have performed molecular dynamics simulations of 601-SHL024 nucleosome to accomodate the Sox at SHL0, SHL2 and SHL4 regions. We have traced the conformational profile of Sox binding sequences with two measures to find the most appropriate conformation to generate Sox:Nucleosome complexes: (i) The P-RMSD (Root Mean Square Deviation of the DNA Phosphorus atoms to the reference DNA), and (ii) the minor groove widening calculated for the probed SHLs. 
 * Then, we have docked Sox to its cognate sequence "TTGT" by integrative modeling and performed second cycle of molecular dynamics simulations. At the end of these simulations, we have obtained final models as Sox:dyad, Sox:SHL2 and Sox:SHL4. 
 
-Initial 601-SHL024 model and final Sox:dyad, Sox:SHL2 and Sox:SHL4 models are given in **_Models_** directory and sample trajectories are given in **_Trajectories_** directory.
-
-### Acknowlegnments
-This study is the part of the integrative approach, where we have combined cutting-edge experimental (•OH and UV laser footprinting) and _in silico_ (integrative modeling and molecular dynamics simulations) approaches. The article will be published very soon.
+Initial 601-SHL024 model and final Sox:dyad, Sox:SHL2 and Sox:SHL4 models are given in **_Models_** directory, sample trajectories are given in **_Trajectories_** directory, and the nuclesome recognition process by Sox, demonstrated as movies are provided under **_Movies_** directory.
 
 ### Contact
 Ezgi Karaca ezgi.karaca@ibg.edu.tr
