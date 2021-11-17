@@ -8,9 +8,6 @@ Pioneer transcription factors (PTFs) directly bind to the nucleosomally organize
 
 Initial 601-SHL024 model and final Sox:dyad, Sox:SHL2 and Sox:SHL4 models are given in **_Models_** directory and sample trajectories are given in **_Trajectories_** directory.
 
-### Acknowlegnments
-This study is the part of the integrative approach, where we have combined cutting-edge experimental (•OH and UV laser footprinting) and _in silico_ (integrative modeling and molecular dynamics simulations) approaches. The article will be published very soon.
-
 ### Contact
 Ezgi Karaca ezgi.karaca@ibg.edu.tr
 
