@@ -1,6 +1,6 @@
 # Minor Groove Calculation
 
-3DNA (Zheng et al., 2009) is used to calculate the minor groove values of DNA. It generates an output file for each coordinate file.
+3DNA (Lu and Olson, 2003) is used to calculate the minor groove values of DNA. It generates an output file for each coordinate file.
 After calculating the minor groove values for every coordinate file, we merged the output files of two parallel MD simulations as one output file for each complex.
 
 The raw minor groove files are:
@@ -24,4 +24,4 @@ Final output plots are:
 - MG-sox_dyad-equilibrated.pdf
 - MG-sox_shl2-equilibrated.pdf
 
-Reference: Guohui Zheng, Xiang-Jun Lu & Wilma K. Olson (2009). ‘Web 3DNA—a web server for the analysis, reconstruction, and visualization of three-dimensional nucleic-acid structures’, Nucleic Acids Res. 37 (Web Server issue), W240–W246. 
+**Reference**: Xiang-Jun Lu & Wilma K. Olson (2003). ‘3DNA: a software package for the analysis, rebuilding and visualization of three-dimensional nucleic acid structures’, Nucleic Acids Res. 31(17), 5108-21.
