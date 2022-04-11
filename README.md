@@ -1,5 +1,7 @@
 ![github_title](https://user-images.githubusercontent.com/64282221/162792508-e10eada6-6a7f-4adc-bf41-3226b6720758.png)
 
+**Article: https://doi.org/10.1101/2021.12.07.471700**
+
 Pioneer transcription factors (PTFs) directly bind to the nucleosomally organized DNA to stimulate vital cellular processes. Up to date, several studies have been carried out to dissect the interaction landscape between PTFs and chromatin. However, the precise invasion mechanism of chromatin by PTFs is yet to be resolved. Expanding on this, we carried out dynamic ingtegrative modeling approach (integrative modeling and molecular dynamics simulations) concentrating on three super helical locations (SHLs) as binding sites, namely SHL0, SHL+2, SHL+4. Our dynamic integrative modeling steps are as follow:
 
 * First, we have structurally modeled 601-SHL024 nucleosome by inserting cognate sequence "TTGT" at SHL0, SHL2 and SHL4 regions to 601-NCP structure (pdb id:3lz0). 
