@@ -8,7 +8,7 @@ Pioneer transcription factors (PTFs) directly bind to the nucleosomally organize
 
 **Scripts**: Required scripts to draw plots and calculate the P-RMSD values.
 
-**Trajectories**: Molecular dynamics simulations files of 601-SHL024 and Sox11 at dyad, SHL0 and SHL2 files
+**Trajectories**: Molecular dynamics simulations files of 601-SHL024 and Sox11 at dyad, SHL0 and SHL2
 
 **Movies**: Demonstaration of the nuclesome recognition process by Sox11 at SHL0, SHL2 and SHL4
 
