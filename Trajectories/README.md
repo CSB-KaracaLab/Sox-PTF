@@ -1,4 +1,4 @@
-# Molecular Dynamics Simulations Protocol
+## Molecular Dynamics Simulations Protocol
 
 MD simulations were performed by using the GROMACS simulation package (Gromacs 2019 and Gromacs 5.1.4) under the effect of Amber Parmbsc1 force field. We used TIP3P as the water model. The NaCl concentration was kept as 0.15 M. A dodecahedron simulation box was used, while having a minimum distance of 12 Å between the biological molecule and the edges of simulation box. The temperature was kept at 310K throughout the simulation. We performed two parallel simulations for the free nucleosome (Sox binding motif inserted at dyad, SHL2 and SHL4, pdb id: 3lz0), the DNA:Sox11 complex (pdb id: 6t78), and the Sox11-bound nucleosome structures, i.e., Sox11:dyad, Sox11:SHL2, and Sox11:SHL4. 
 
