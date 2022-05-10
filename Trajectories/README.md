@@ -4,7 +4,7 @@ MD simulations were performed by using the GROMACS simulation package (Gromacs 2
 
 Before running the simulations, complexes were minimized by using the steepest descent algorithm in the vacuum. Then, they are solvated in TIP3P water and concentration was kept at 0.15 M by adding NaCl to the system (460 Na+, 240 Cl- for free nucleosome; 49 Na+, 38 Cl- for Sox11:DNA; 427 Na+, 218 Cl- for Sox11:dyad; 438 Na+ and 229 Cl- for Sox11:SHL2; and 477 Na+ and 268 Cl- for Sox11:SHL4). The number of ions were added to the topology files accordingly and then the solvated systems were minimized. The systems were relaxed for 20 ps at 310K under the constant volume. To generate replicas, random seeds were changed. Then, another 20 ps molecular dynamics simulations were performed under constant pressure at 1 bar. Finally, position restrains were released gradually from 1000 to 100, 100 to 10 and 10 to 0. The integration time step was set to 2 fs. The coordinate files were recorded in every 0.5 ns for the analysis. 
 
-The coordinate files are presented as pdb files in drive link for 601-SHL024 (free nucleosome), DNA:Sox11, Nucleosome:Sox at dyad, Nucleosome:Sox at SHL2 and Nucleosome:Sox at SHL4. 
+The coordinate files are presented as pdb files in the drive link for 601-SHL024 (free nucleosome), DNA:Sox11, Nucleosome:Sox at dyad, Nucleosome:Sox at SHL2 and Nucleosome:Sox at SHL4. 
 
 [![DRIVELINK](http://img.shields.io/badge/DriveLink-B31B1B.svg)](https://drive.google.com/drive/folders/1xCAvVKn4FMwJXaiOfce78pRSTEbfw83e?usp=sharing)
 
