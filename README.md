@@ -6,7 +6,7 @@ Pioneer transcription factors (PTFs) directly bind to the nucleosomally organize
 
 **Raw_Data**: RMSD, minor groove and interaction files
 
-**Scripts**: Required scripts to draw plots and calculate the P-RMSD values.
+**Scripts**: Required scripts to draw plots and calculate the P-RMSD values
 
 **Trajectories**: Molecular dynamics simulations files of 601-SHL024 and Sox11 at dyad, SHL0 and SHL2
 
