@@ -7,4 +7,7 @@
 <img src="https://user-images.githubusercontent.com/64282221/169764667-7c73d1ec-5c45-4b00-95e5-e5af3e908bc9.png" width="450" height="250">
 
 ### Reference:
+
 Lu, Xiang‐Jun, and Wilma K. Olson. "3DNA: a software package for the analysis, rebuilding and visualization of three‐dimensional nucleic acid structures." Nucleic acids research 31.17 (2003): 5108-5121.
+
+Dodonova,S.O., Zhu,F., Dienemann,C., Taipale,J. and Cramer,P. (2020) Nucleosome-bound SOX2 and SOX11 structures elucidate pioneer factor function. Nature 2020 580:7805, 580, 669–672.
