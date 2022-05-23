@@ -1,4 +1,4 @@
-## Calculate minor groove values and plot the minor groove graphs
+## Extract minor groove values from 3DNA output files and plot the minor groove graphs
 
 3DNA (Lu and Olson, 2003) is used to calculate the minor groove values of DNA. It can be downloaded from [3DNA website](https://x3dna.org/about/). It generates an output file for every coordinate file and saves the output file with _.out_ extension.
 
