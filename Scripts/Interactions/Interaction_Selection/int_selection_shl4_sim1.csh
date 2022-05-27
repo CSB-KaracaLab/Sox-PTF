@@ -1,7 +1,7 @@
 #!/bin/csh
 
 #SOX - DNA interactions
-
+# To run the script: ./int_selection_shl4_sim1.csh
 
 
 foreach i(*.interfacea)

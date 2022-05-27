@@ -1,6 +1,7 @@
 #!/bin/csh
 
 #SOX - DNA interactions
+# To run the script: ./int_selection_dyad_sim1.csh
 
 
 
