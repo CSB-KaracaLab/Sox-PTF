@@ -13,7 +13,7 @@ So, we selected these interactions from Interfacea outputs by using the scripts 
 
 These selected interactions are saved as selected interactions in [Raw_Data/Interactions/Selected_Interactions/](https://github.com/BurcuOzden/Sox-PTF/tree/main/Raw_Data/Interactions/Selected_Interactions) and used in barcode plots.
 
-To visualize these interaction, we plotted barcode graphs as below by using [Interaction-plots.ipnyb](https://github.com/BurcuOzden/Sox-PTF/blob/main/Scripts/Interactions/Interaction-plots.ipynb). 
+To visualize these interaction, we plotted barcode graphs as below by using [Interaction-plots.ipnyb](https://github.com/BurcuOzden/Sox-PTF/blob/main/Scripts/Interactions/Interaction-plots.ipynb) 
 for Sox:DNA (reference structure, pdb id: 6t78), Sox:dyad, Sox:SHL2 and Sox:SHL4, respectively.
 
 <img src="https://user-images.githubusercontent.com/64282221/170729358-a8c58d17-82c3-4a47-a861-ede579ba5436.png" width="200" height="300"> <img src="https://user-images.githubusercontent.com/64282221/170728989-4be42eeb-4965-4110-9ecb-f92cb5d1bdc6.png" width="200" height="300">
