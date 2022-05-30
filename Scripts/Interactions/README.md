@@ -1,7 +1,7 @@
 ## Calculation of interactions between Sox and DNA and ploting selected interaction graphs
 
 
-Molecular interaction profiles of complexes were calculatedby using the Interfacea Python library (https://github.com/JoaoRodrigues/interfacea).
+Molecular interaction profiles of complexes were calculated by using the Interfacea Python library (https://github.com/JoaoRodrigues/interfacea).
 How to run the Interfacea over the simulation are explained [Scripts/Interactions/Interfacea](https://github.com/BurcuOzden/Sox-PTF/tree/main/Scripts/Interactions/Interfacea).
 The output files are deposited under [Raw_Data/Interactions/Interfacea_Results/](https://github.com/BurcuOzden/Sox-PTF/tree/main/Raw_Data/Interactions/Interfacea_Results).
 
