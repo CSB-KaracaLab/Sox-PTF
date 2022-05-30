@@ -1,4 +1,4 @@
-### Minor groove output files
+## Minor groove output files
 
 [3DNA](https://x3dna.org/) (Lu and Olson, 2003) is used to calculate the minor groove values of DNA. It generates an output file for every coordinate file and saves the output file with _.out_ extension.
 
