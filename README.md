@@ -4,7 +4,7 @@
 
 Pioneer transcription factors (PTFs) directly bind to the nucleosomally organized DNA to stimulate vital cellular processes. Up to date, several studies have been carried out to dissect the interaction landscape between PTFs and chromatin. However, the precise invasion mechanism of chromatin by PTFs is yet to be resolved. Expanding on this, we combine extensive molecular dynamics simulations and DNA footprinting techniques to explore the universal binding mode of Sox PTF by concentrating on three super helical locations (SHL0 (dyad), SHL+2, SHL+4). We reveal that the base-specific Sox-DNA interactions (base reading) and the Sox-induced DNA changes (shape reading) are concurrently required for sequence-specific DNA recognition. Among different nucleosomal positions, such a specific reading mechanism is satisfied solely at superhelical location 2 (SHL2). While SHL2 acts transparently to Sox binding, SHL4 permits only shape reading, and dyad allows no reading mechanism. For this, we perform compherensive computational study by combining integrative modeling and molecular dynamics simulations. Here, we presents our raw data as well as with our analysis scripts. The folder organization is as follow:
 
-**Raw_Data**: P-RMSD (Martin, A.C.R.), minor groove (Lu _et al._,2003) and interaction files (Rodrigues _et al._, 2019)
+**Raw_Data**: P-RMSD (Martin, A.C.R.), minor groove (Lu and Olson,2003) and interaction files (Rodrigues _et al._, 2019)
 
 **Scripts**: Required scripts to calculate the P-RMSD, minor groove values, interaction results and to plot the graphs
 
