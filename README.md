@@ -1,4 +1,4 @@
-*Molecular Mechanism of Nucleosome Recognition by the Pioneer Transcription Factor Sox
+Molecular Mechanism of Nucleosome Recognition by the Pioneer Transcription Factor Sox
 
 [![DOI:10.1021/acs.jcim.2c01520](http://img.shields.io/badge/DOI-10.1021/acs.jcim.2c01520-B31B1B.svg)](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01520)
 
