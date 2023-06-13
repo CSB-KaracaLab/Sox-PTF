@@ -1,4 +1,4 @@
-![github_title](https://user-images.githubusercontent.com/64282221/162792508-e10eada6-6a7f-4adc-bf41-3226b6720758.png)
+![github_title](https://pubs.acs.org/cms/10.1021/acs.jcim.2c01520/asset/images/large/ci2c01520_0006.jpeg)
 
 [![DOI:10.1021/acs.jcim.2c01520](http://img.shields.io/badge/DOI-10.1021/acs.jcim.2c01520-B31B1B.svg)](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01520)
 
