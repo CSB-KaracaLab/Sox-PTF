@@ -1,4 +1,4 @@
-![github_title](https://pubs.acs.org/cms/10.1021/acs.jcim.2c01520/asset/images/large/ci2c01520_0006.jpeg)
+<img src="toc.png" alt="toc" width="200" />
 
 [![DOI:10.1021/acs.jcim.2c01520](http://img.shields.io/badge/DOI-10.1021/acs.jcim.2c01520-B31B1B.svg)](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01520)
 
